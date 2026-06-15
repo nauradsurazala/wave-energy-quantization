@@ -12,7 +12,7 @@
 
 This repository contains the numerical code used to produce all figures in the paper and its supplementary material.
 
-The paper shows that a 1D classical wave equation with a spatially periodic coefficient $F(x)$ can be engineered to possess a **quantized energy spectrum** — identical in structure to a quantum harmonic oscillator (QHO) — when $F(x)$ is chosen to be negative and spatially modulated. The analysis is grounded in Floquet–Bloch theory (Mathieu / Hill equation) and draws an explicit analogy with transmon circuit-QED.
+The paper shows that a 1D classical wave equation with a spatially periodic coefficient $F(x)$ can be engineered to possess a **quantized energy spectrum** — identical in structure to a quantum harmonic oscillator (QHO) — when $F(x)$ is chosen to be negative and spatially modulated. The analysis is grounded in Floquet–Bloch theory (Mathieu / Hill equation).
 
 ---
 
