@@ -4,6 +4,8 @@
 
 **Preprint:** [arXiv:2606.09695](https://arxiv.org/abs/2606.09695)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20706188.svg)](https://doi.org/10.5281/zenodo.20706188)
+
 **Submitted to:** *Proceedings of the Royal Society A*
 
 ---
